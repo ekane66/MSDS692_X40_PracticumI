@@ -1,5 +1,10 @@
 # MSDS692_X40_PracticumI
-Problem Definition:
+
+Exploring the Music of Phish <br>
+Pattern and Fan Sentiment <br>
+
+Problem Definition:<br>
+
 This project aims to leverage data science techniques to gain a deeper understanding of Phish music and its impact on the fan community. The objective is to analyze Phish music data to uncover patterns, 
 get a glimpse into what improvisation techniques look like in data form, and explore fan sentiment. The project will involve data visualization, audio analysis, sentiment analysis, and clustering or dimensionality reduction techniques.
 Visualize and analyze the music data to identify patterns, trends, and characteristics of Phish's improvisational style.
